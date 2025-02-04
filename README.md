@@ -25,7 +25,7 @@ This project implements a **two-player strategy game** where the computer (**MAX
   - Explores the entire game tree for optimal decision-making
 
 ## Technologies Used
-- **Programming Language**: Python  
+- **Programming Language**: Java  
 - **Algorithm**: MINIMAX (Recursive Implementation)  
 - **Data Structures**: Tree Search for Move Evaluation
 
